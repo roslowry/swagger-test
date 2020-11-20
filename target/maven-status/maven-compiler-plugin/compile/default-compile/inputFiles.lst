@@ -1,0 +1,8 @@
+/Users/ross.lowry/Desktop/workspace/training/udacity-java-training/part2/restapidemo-swagger/src/main/java/com/rossudacity/restapidemo/service/DogService.java
+/Users/ross.lowry/Desktop/workspace/training/udacity-java-training/part2/restapidemo-swagger/src/main/java/com/rossudacity/restapidemo/service/DogServiceImpl.java
+/Users/ross.lowry/Desktop/workspace/training/udacity-java-training/part2/restapidemo-swagger/src/main/java/com/rossudacity/restapidemo/service/DogNotFoundException.java
+/Users/ross.lowry/Desktop/workspace/training/udacity-java-training/part2/restapidemo-swagger/src/main/java/com/rossudacity/restapidemo/config/SwaggerConfig.java
+/Users/ross.lowry/Desktop/workspace/training/udacity-java-training/part2/restapidemo-swagger/src/main/java/com/rossudacity/restapidemo/web/DogController.java
+/Users/ross.lowry/Desktop/workspace/training/udacity-java-training/part2/restapidemo-swagger/src/main/java/com/rossudacity/restapidemo/entity/Dog.java
+/Users/ross.lowry/Desktop/workspace/training/udacity-java-training/part2/restapidemo-swagger/src/main/java/com/rossudacity/restapidemo/repository/DogRepository.java
+/Users/ross.lowry/Desktop/workspace/training/udacity-java-training/part2/restapidemo-swagger/src/main/java/com/rossudacity/restapidemo/RestapidemoApplication.java
